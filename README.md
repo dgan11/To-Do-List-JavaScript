@@ -11,4 +11,4 @@ A user can delete a task from the to do list by clicking the trash icon on the r
 Finally, a user can clear the entire to do list by clicking the refresh button in the top right.
 
 
-![What It Looks Like](sample.png)
+![What It Looks Like](https://github.com/dgan11/To-Do-List-JavaScript/blob/master/img/sample.png)
