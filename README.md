@@ -12,4 +12,4 @@ Finally, a user can clear the entire to do list by clicking the refresh button i
 
 
 <image>
-![What It Looks Like](img/sample.png)
+![What It Looks Like](sample.png)
