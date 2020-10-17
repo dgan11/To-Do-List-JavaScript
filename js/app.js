@@ -1,4 +1,3 @@
-// CODE EXPLAINED channel
 
 // Select the elements
 const clearAll = document.querySelector(".clear");
