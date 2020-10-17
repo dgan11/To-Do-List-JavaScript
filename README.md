@@ -13,4 +13,4 @@ Finally, a user can clear the entire to do list by clicking the refresh button i
 
   
 
-![What It Looks Like](https://github.com/dgan11/To-Do-List-JavaScript/blob/master/img/look.png)
+![What It Looks Like](https://github.com/dgan11/To-Do-List-JavaScript/blob/master/img/example.png)
