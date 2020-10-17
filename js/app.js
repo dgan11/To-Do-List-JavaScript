@@ -1,6 +1,6 @@
 
 // Select the elements
-const clearAll = document.querySelector(".clear");
+const clear = document.querySelector(".clear");
 const dateElement = document.getElementById("date");
 const list = document.getElementById("list");
 const input = document.getElementById("input")
@@ -172,7 +172,7 @@ list.addEventListener("click", function(event) {
 /*
 Event listener so when you hit the clearAllButton you delete the current task list and create a new empty task list
 */
-clearAll.addEventListener("click", function (clearAllButton) {
+clear.addEventListener("click", function (clearAllButton) {
     console.log("Hit the clearAllButton");
     if (clearAllButton) {
         // Set the list HTML to just an empty unordered list
